@@ -1,4 +1,4 @@
-# Online Retail System
+# Flipzon - Online Retail System
 
 An online retail system that allows users to request goods from any location. The application includes user authentication, product ordering, payment processing, dispatch and tracking, push notifications, and robust security measures.
 
